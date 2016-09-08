@@ -1,0 +1,18 @@
+ironSword iron_sword /equipment/weapon/melee/sword
+diamondSword diamond_sword /equipment/weapon/melee/sword
+stoneSword stone_sword /equipment/weapon/melee/sword
+goldSword golden_sword /equipment/weapon/melee/sword
+woodSword wooden_sword /equipment/weapon/melee/sword
+bow bow /equipment/weapon/ranged/bow
+ironBars iron_bars /block/manufacturedBlock/constructionBlock/bars
+gold gold_ingot /resources/miningResources/ingots
+iron iron_ingot /resources/miningResources/ingots
+bone bone /resources/huntingResources/bones
+goldNugget gold_nugget /resources/huntingResources/nugget
+craftingTable crafting_table /item/utility/craftingTable
+furnace furnace /item/utility/forge
+furnaceBurning lit_furnace /item/utility/forge
+bed bed /item/utility/bed
+bed bed /item/decoration/bed
+torch torch /item/utility/torch
+
