@@ -25,6 +25,7 @@ Developed and tested only on FreeBSD 10.1.
 Versions and changelog
 ======================
 1.01    2015-09-26      Distinguish between melee, ranged and throwing weapons
+
 1.00    2015-09-25      Initial release
 
 
